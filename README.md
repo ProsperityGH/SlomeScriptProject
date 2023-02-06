@@ -1,2 +1,2 @@
 # SlomeScriptProject
-slomescript is made by Robotnik08
+slomeScript is made by my friend Robotnik08
